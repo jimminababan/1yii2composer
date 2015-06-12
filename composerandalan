@@ -1,3 +1,7 @@
 This is to make model in yii double 
-
 http://www.yiiframework.com/extension/yii2-gouble-model-gii/
+
+
+Yii JUI
+php composer.phar require --prefer-dist yiisoft/yii2-jui
+
